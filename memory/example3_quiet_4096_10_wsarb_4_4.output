@@ -1,0 +1,5 @@
+events in trace:    1600
+total disk reads:   674
+total disk writes:  296
+page faults:        646
+prefetch faults:    28

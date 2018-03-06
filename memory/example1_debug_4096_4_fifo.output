@@ -1,0 +1,33 @@
+MISS:    page 0
+MISS:    page 1
+MISS:    page 2
+MISS:    page 3
+HIT:     page 2
+MISS:    page 4
+REPLACE: page 0 (DIRTY)
+HIT:     page 3
+HIT:     page 3
+MISS:    page 0
+REPLACE: page 1
+MISS:    page 1
+REPLACE: page 2 (DIRTY)
+MISS:    page 5
+REPLACE: page 3 (DIRTY)
+MISS:    page 2
+REPLACE: page 4
+MISS:    page 6
+REPLACE: page 0
+HIT:     page 5
+HIT:     page 5
+MISS:    page 3
+REPLACE: page 1
+HIT:     page 3
+MISS:    page 1
+REPLACE: page 5 (DIRTY)
+HIT:     page 2
+HIT:     page 2
+events in trace:    20
+total disk reads:   12
+total disk writes:  4
+page faults:        12
+prefetch faults:    0
